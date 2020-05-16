@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Web Page</title>
+</head>
+<body>
+    <h1>Welcome to my first web page!</h1>
+    <p>My name is Jonathan Pierre York.  I am a sophomore at the University of Missouri-Columbia.  During my tenure at school 
+    I've made countless friends and memories.  Also with studing what I would actually like to do in life, I would say I am having a
+    great time.  The teachers here are really helpful in trying to have the best situation for their students.</p>
+
+    <p>Even though I love my school I'm not sure if I want to continue after I graduate.  School itself is very drowning and time consuming.
+    Sometimes with stuff you love, you can get tired of it.  I have been in school for 14 years.  That's a lot! But with time can come
+    change. You never know what the future holds.</p>
+
+    <ul>
+        <li>Random Pic</li>
+        <li>[Dog](https://www.google.com/search?q=cute+dog&sxsrf=ALeKk01q8H-MOFiDnthuP2aaUIkDQVg9Ng:1589665526661&tbm=isch&source=iu&ictx=1&fir=u6GlFej8VjKheM%253A%252ClYnKIE0fh2eU0M%252C_&vet=1&usg=AI4_-kQ3NfYLoT3R_rfxsPgdWOgeubnOaA&sa=X&ved=2ahUKEwjTvZzIrbnpAhVTCc0KHa_ICskQ9QEwAHoECAMQMA#imgrc=u6GlFej8VjKheM:)</li> 
+    </ul>
+    
+    <ul>
+        <li>A List Of TV Shows at the Moment</li>
+        <li> 1. Money Heist</li>
+        <li> 2. Orazk </li>
+        <li> 3. Elite </li>
+        <li> 4. Chicago Med </li>
+     </ul>
+
+    <h2>A Little More About Me</h2>
+    <p>I come from a suburb in St. Louis named "**_University City_**".  I attended that school district all of my life. 
+    If felt pretty good graduating from a place you've been at for so long.</p>
+
+    <img src="images/cat.jpeg" height="30%">
+
+    <p>I hope you enjoy my page here!</p>
+
+</body>
+</html>
+
+
+
+
